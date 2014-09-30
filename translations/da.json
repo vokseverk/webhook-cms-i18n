@@ -18,19 +18,19 @@
     "save": "Gem"
   },
   "wh": {
-    "userCount": "online now.",
-    "accountTooltip": "Click to change your password and other account info.",
-    "logout": "Logout",
-    "search": "Press S to search",
-    "navContent": "Your Content",
+    "userCount": "online nu.",
+    "accountTooltip": "Klik for at ændre kodeord og andre kontoindstillinger.",
+    "logout": "Log ud",
+    "search": "Tryk S for at søge",
+    "navContent": "Dit Indhold",
     "configuration": {
-      "title": "Configuration",
-      "types": "Add / Edit Content Types",
-      "team": "Team Members",
-      "settings": "Settings",
-      "billing": "Billing",
-      "dns": "Domain",
-      "data": "Backups and Data"
+      "title": "Konfigurering",
+      "types": "Tilføj / Rediger Indholdstyper",
+      "team": "Team Medlemmer",
+      "settings": "Indstillinger",
+      "billing": "Betaling",
+      "dns": "Domæne",
+      "data": "Backup og Data"
     },
     "localNotice": "<span class='icon icon-code'> Local development</span> Saves here will only trigger builds locally, not on your live website.",
     "index": {
