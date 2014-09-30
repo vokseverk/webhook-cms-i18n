@@ -7,12 +7,12 @@
     "addLanguage": "Hjælp med at oversætte Webhook"
   },
   "passwordReset": {
-    "prompt": "Provide your email to reset your password.",
-    "action": "Reset password",
-    "goBack": "Take me back to login",
-    "emailLabel": "Email",
-    "provideEmail": "Provide your email to reset your password.",
-    "success": "Password reset email sent successfully"
+    "prompt": "Indtast din e-mail for at nulstille dit kodeord.",
+    "action": "Nulstil kodeord",
+    "goBack": "Gå tilbage til login",
+    "emailLabel": "E-mail",
+    "provideEmail": "Indtast din e-mail for at nulstille dit kodeord.",
+    "success": "E-mail afsendt med info om nulstilling af kodeord"
   },
   "button": {
     "save": "Save"
