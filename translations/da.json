@@ -35,16 +35,16 @@
     "localNotice": "<span class='icon icon-code'> Lokal udvikling</span> Det der gemmes her vil kun starte lokale builds, ikke på live websitet.",
     "index": {
       "welcome": {
-        "title": "Welcome to your CMS",
-        "description": "Some handy links for building with Webhook:",
-        "docs": "Documentation",
-        "support": "Support",
+        "title": "Velkommen til dit CMS",
+        "description": "Brugbare links til brug af Webhook:",
+        "docs": "Dokumentation",
+        "support": "Hjælp",
         "issues": "Issues",
-        "forums": "Forums"
+        "forums": "Fora"
       },
-      "updates": "Webhook Updates",
-      "history": "Build History",
-      "moreHistory": "Fetch more history"
+      "updates": "Webhook Opdateringer",
+      "history": "Build Historik",
+      "moreHistory": "Hent mere historik"
     },
     "settings": {
       "password": {
