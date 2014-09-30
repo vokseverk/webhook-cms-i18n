@@ -81,17 +81,17 @@
           "action": "Send Invitation"
         },
         "current": {
-          "title": "Current Team Members",
-          "description": "Owners have access to billing and the local dev tools. Contributors only have the ability to add and edit content on the live CMS.",
-          "email": "Email",
-          "permissions": "Permissions",
-          "owner": "Owner",
-          "contributor": "Contributor",
-          "toOwner": "Change to owner",
-          "toContributor": "Change to contributor",
-          "remove": "Remove access entirely",
-          "waiting": "Waiting on verification",
-          "cancel": "Cancel invite"
+          "title": "Nuværende Team Medlemmer",
+          "description": "Ejere har adgang til betaling og lokale udviklingsværktøjer. Redaktører har kun mulighed for at tilføje og redigere live CMS indhold.",
+          "email": "E-mail",
+          "permissions": "Tilladelser",
+          "owner": "Ejer",
+          "contributor": "Redaktør",
+          "toOwner": "Skift til ejer",
+          "toContributor": "Skift til redaktør",
+          "remove": "Fjern adgang",
+          "waiting": "Venter på bekræftelse",
+          "cancel": "Annuller invitation"
         }
       },
       "general": {
