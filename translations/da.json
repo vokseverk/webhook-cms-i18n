@@ -96,12 +96,12 @@
       },
       "general": {
         "account": {
-          "title": "Account Settings",
+          "title": "Kontoindstillinger",
           "password": {
-            "prompt": "Need to change your password?",
-            "action": "Change your password here"
+            "prompt": "Brug for at skifte kodeord?",
+            "action": "Skift dit kodeord her"
           },
-          "language": "Select CMS language"
+          "language": "Vælg CMS sprog"
         },
         "global": {
           "title": "Global Variables",
