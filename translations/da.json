@@ -48,25 +48,25 @@
     },
     "settings": {
       "password": {
-        "title": "Change Password",
-        "action": "Save",
+        "title": "Skift kodeord",
+        "action": "Gem",
         "fields": {
           "account": {
-            "label": "Account to change"
+            "label": "Konto der skal ændres"
           },
           "oldPassword": {
-            "label": "Old password"
+            "label": "Gammelt kodeord"
           },
           "newPassword": {
-            "label": "New password"
+            "label": "Nyt kodeord"
           },
           "newPassword2": {
-            "label": "New password (repeat)"
+            "label": "Nyt kodeord (bekræft)"
           }
         },
         "error": {
-          "match": "Passwords must match.",
-          "fix": "Please fix the following errors."
+          "match": "Kodeord skal være ens.",
+          "fix": "Ret venligst de følgende fejl."
         }
       },
       "team": {
