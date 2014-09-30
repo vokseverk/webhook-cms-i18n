@@ -71,8 +71,8 @@
       },
       "team": {
         "deploy": {
-          "title": "You need to deploy first",
-          "instruction": "Before you can add new members to your team you need to deploy the site onto the Internet. You can do this by running <code>wh deploy</code> in your local site directory. Then return to this page."
+          "title": "Du skal publicere først",
+          "instruction": "Før du kan tilføje nye medlemmer til dit team, skal du publicere sitet til Internettet. Du kan gøre det ved at køre <code>wh deploy</code> i din lokale site mappe. Kom tilbage hertil bagefter."
         },
         "invite": {
           "title": "Invite a New Team Member",
