@@ -104,36 +104,36 @@
           "language": "Vælg CMS sprog"
         },
         "global": {
-          "title": "Global Variables",
-          "description": "These are global values used in your front end templates. To retrieve them into your site, check the <a href='http://www.webhook.com/docs/template-rules-and-filters/#_getsetting' target='_blank'>documentation here</a>.",
-          "action": "Save",
+          "title": "Globale Variabler",
+          "description": "Dette er globale værdier der bruges i dine front end templates. Lær hvordan du trækker dem ud i <a href='http://www.webhook.com/docs/template-rules-and-filters/#_getsetting' target='_blank'>dokumentationen her</a>.",
+          "action": "Gem",
           "fields": {
             "name": {
-              "label": "Site Name"
+              "label": "Site Navn"
             },
             "description": {
-              "label": "Site Description",
-              "help": "A short description for your site."
+              "label": "Site Beskrivelse",
+              "help": "En kort beskrivelse af dit site."
             },
             "keywords": {
               "label": "Site Keywords",
-              "help": "Comma separated list of keywords describing your site."
+              "help": "Kommasepareret liste med keywords der beskriver dit site."
             },
             "url": {
               "label": "Site URL",
-              "help": "Please use full URL like http://www.example.com."
+              "help": "Skriv venligst en fuld URL, som f.eks. http://www.eksempel.dk."
             },
             "analytics": {
               "label": "Site Analytics ID",
-              "help": "Analytics Service ID. Usually something like UA-XX-XXXX"
+              "help": "Analytics Service ID. Som regel noget i stil med UA-XX-XXXX"
             },
             "twitter": {
               "label": "Site Twitter",
-              "help": "Twitter handle, without the @ sign."
+              "help": "Twitter handle, uden @-tegnet."
             },
             "facebook": {
               "label": "Site Facebook",
-              "help": "Facebook name."
+              "help": "Facebook navn."
             }
           }
         }
