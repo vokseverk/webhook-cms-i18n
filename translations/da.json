@@ -1,10 +1,10 @@
 {
   "login": {
-    "email": "Email",
-    "password": "Password",
-    "signIn": "Sign In",
-    "forgotPassword": "Forgot password?",
-    "addLanguage": "Contribute to translations of Webhook"
+    "email": "E-mail",
+    "password": "Kodeord",
+    "signIn": "Log ind",
+    "forgotPassword": "Glemt kodeord?",
+    "addLanguage": "Hjælp med at oversætte Webhook"
   },
   "passwordReset": {
     "prompt": "Provide your email to reset your password.",
