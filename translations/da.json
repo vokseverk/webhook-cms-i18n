@@ -75,10 +75,10 @@
           "instruction": "Før du kan tilføje nye medlemmer til dit team, skal du publicere sitet til Internettet. Du kan gøre det ved at køre <code>wh deploy</code> i din lokale site mappe. Kom tilbage hertil bagefter."
         },
         "invite": {
-          "title": "Invite a New Team Member",
-          "instruction": "Invite a new collaborator by email",
-          "help": "The person will not be active until they verify their email address.",
-          "action": "Send Invite"
+          "title": "Inviter et nyt Team Medlem",
+          "instruction": "Inviter en ny redaktør via e-mail",
+          "help": "Vedkommede vil ikke være aktiv før de har bekræftet deres e-mailadresse.",
+          "action": "Send Invitation"
         },
         "current": {
           "title": "Current Team Members",
