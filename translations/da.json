@@ -139,17 +139,17 @@
         }
       },
       "billing": {
-        "title": "Billing",
+        "title": "Betaling",
         "trial": {
-          "lastDay": "This is the last day of your trial",
-          "days": "You have {{count}} trial days left",
-          "instruction": "<p>All Webhook sites start as 14-day free trials. To continue service and allow for custom domains you'll need to upgrade to a paid account.</p><p>You'll be asked to login again.</p>",
-          "action": "Upgrade now"
+          "lastDay": "Dette er den sidste dag i prøveperioden",
+          "days": "Du har {{count}} dage tilbage i prøveperioden",
+          "instruction": "<p>Alle Webhook sites starter med 14 dages prøveperiode. For at forsætte, og for for at få adgang til brug af egne domæner, skal du opgradere til en betalt konto.</p><p> Du bliver bedt om at logge ind igen.</p>",
+          "action": "Opgrader nu"
         },
         "paid": {
-          "title": "Thanks for your business!",
-          "instruction": "<p>Your site is an active account. If you need to change your billing information or cancel your subscription, click on over to our billing portal.</p><p>You'll be asked to login again.</p>",
-          "action": "Manage billing"
+          "title": "Tak for din betaling!",
+          "instruction": "<p>Dit site har en aktiv konto. Hvis du vil ændre betalingsoplysninger eller annullere dit abonnement, så klik ind på betalingsportalen.</p><p>Du bliver bedt om at logge ind igen.</p>",
+          "action": "Rediger Betalinger"
         }
       },
       "domain": {
